@@ -1,0 +1,26 @@
+.site-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2em;
+}
+
+.site-header nav ul {
+    display: flex;
+}
+
+.site-header nav ul li {
+    display: block;
+    margin-inline: 1em;
+}
+
+.site-header nav ul li a{
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.site-logo {
+    width: auto;
+    height:3em;
+}
